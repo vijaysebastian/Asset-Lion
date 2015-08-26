@@ -1,0 +1,14 @@
+[global]
+ApplicationName=asset-lion
+AwsCredentialFile=c:/Users/ladybird\.elasticbeanstalk\aws_credential_file
+DevToolsEndpoint=git.elasticbeanstalk.ap-southeast-1.amazonaws.com
+EnvironmentName=asset-lion-env
+EnvironmentTier=WebServer::Standard::1.0
+EnvironmentType=SingleInstance
+InstanceProfileName=aws-elasticbeanstalk-ec2-role
+OptionSettingFile=c:\Users\ladybird\documents\asset-lion\.elasticbeanstalk\optionsettings.asset-lion-env
+RdsEnabled=No
+Region=ap-southeast-1
+ServiceEndpoint=https://elasticbeanstalk.ap-southeast-1.amazonaws.com
+SolutionStack=64bit Amazon Linux 2014.03 v1.1.0 running PHP 5.5
+
